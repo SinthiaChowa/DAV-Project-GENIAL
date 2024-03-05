@@ -2,6 +2,13 @@
 
 The world is shifting toward technological solutions by advancing human life in every aspect. However, these upgrades have shifted our focus from the importance of protecting life on land and the environment which is disrupting the balance of the ecosystem and biodiversity. In order to conserve wildlife and protect the ecosystem, it is necessary to discover the weak points or problems and provide proper solutions. This paper contributes to this aspect by analyzing datasets related to the extinction of wildlife and its connection with forest land by applying data analytics approaches. The purpose of this research is to extract information related to forest loss, threatened species, extinction of species, and more. Three datasets have been analyzed for that reason by applying descriptive and inferential statistics, machine learning, and deep learning algorithms, and the outcomes are discussed. After exploring the data it can be stated that there are similarities in the pattern of forest loss and the red list index which required attention in order to protect biodiversity. In addition, after applying the machine learning algorithms it has been found that the random forest regressor model suits best for this dataset to predict the red list index value, and in the case of deep learning, the LSTM and CNN both show similarities
 
+## Aim and Research Questions
+This paper focuses on the investigation of relationship between the wildlife and forest land including a detailed view of biodiversity and the threats to several species.
+
+## Data
+There are three datasets that have been used for this analysis. The ’FAOSTAT.csv’ datasets hold information regarding the forest land, the ’RED LIST.csv’ contains the Red List Index value of wildlife species and the ’WILD LIFE.csv’ holds detailed information regarding the threatened species.
+
+
 ## Results
 The line plot illustrates the mean of Forest land vs the mean of agricultural land and depicts that through the years, both of them are decreasing.
 
